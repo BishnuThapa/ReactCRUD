@@ -28,7 +28,7 @@ const Navbar = () => {
                     </ul>
 
                 </div>
-                <button className="btn btn-outline-light">Add Users</button>
+                <Link className="btn btn-outline-light" to="/users/add">Add Users</Link>
             </div>
 
         </nav >
