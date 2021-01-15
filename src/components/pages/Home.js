@@ -19,7 +19,7 @@ const Home = () => {
                 <table class="table border shadow">
                     <thead className="thead-dark">
                         <tr>
-                            <th scope="col">#</th>
+                            <th scope="col">S.No</th>
                             <th scope="col">Name</th>
                             <th scope="col">Usernme</th>
                             <th scope="col">Email</th>
